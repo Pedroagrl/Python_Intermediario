@@ -9,7 +9,7 @@ def raizes():
     c = float(input('Digite o valor de c: '))
     delta = (b * b) - 4 * a * c
     if delta < 0:
-        print(f'Delta negativo. A equação {delta} não possui raízes reais.')
+        print(f'Delta negativo. A equação {delta} não possui raízes reais. ')
     elif delta == 0:
         raiz = -b / (2 * a)
     else:

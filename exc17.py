@@ -1,7 +1,7 @@
 def maior():
     maior = 0
     n1 = int(input('Numero 1: '))
-    n2 = int(input('Numero 2: '))
+    n2 = int(input('Numero 2:  '))
     if n1 > n2:
         maior = n1
     else:

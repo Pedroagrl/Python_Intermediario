@@ -7,7 +7,7 @@ def verificar_data(data_str):
     except ValueError:
         return False
 
-data = input('Digite uma data no formato dd/mm/aaaa: ')
+data = input('Digite uma data no formato dd/mm/aaaa:  ')
 if verificar_data(data):
     print('A data é valida!')
 else:

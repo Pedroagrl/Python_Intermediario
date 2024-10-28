@@ -11,5 +11,5 @@ def reajuste():
         print(f'Com o aumento, seu novo salario será R${aumento}! Recebendo um aumento de 10%')
     if salario >= 1500:
         aumento = (salario * 5/100) + salario
-        print(f'Com o aumento, seu novo salario será R${aumento}! Recebendo um aumento de 5%')
+        print(f'Com o aumento, seu novo salario será R${aumento}! Recebendo um aumento de 5% ')
 reajuste()

@@ -3,5 +3,5 @@ def impar_par():
     if numero % 2 == 0:
         print('Esse numero é par!')
     else:
-        print('Esse numero é impar!')
+        print('Esse numero é impar! ')
 impar_par()

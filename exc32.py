@@ -9,4 +9,4 @@ ano = int(input('Digite um ano: '))
 if ano_bissexto(ano):
     print(f'O ano {ano} é bissexto.')
 else:
-    print(f'O ano {ano} não é bissexto.')
+    print(f'O ano {ano} não é bissexto. ')

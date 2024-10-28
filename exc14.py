@@ -1,4 +1,4 @@
-hora = float(input('Ganho por hora: R$'))
+hora = float(input('Ganho por hora:  R$'))
 trabalhadas = int(input('Horas trabalhadas mensalmente: '))
 salario = hora * trabalhadas
 inss = salario * 0.08

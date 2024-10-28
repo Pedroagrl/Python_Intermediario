@@ -12,5 +12,5 @@ def trabalho():
         print(f'Seu salario tem que pagar o imposto de renda de 10% ficando por R${imposto}')
     if salario >= 2500:
         imposto = (salario * 20/100)
-        print(f'Seu salario tem que pagar o imposto de renda de 20% ficando por R${imposto}')
+        print(f'Seu salario tem que pagar o imposto de renda de 20% ficando por R${imposto} ')
 trabalho()

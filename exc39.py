@@ -19,7 +19,7 @@ def crime2():
     elif participacao2 == 5:
         classificacao = "Assasino"
     else:
-        classificacao = "Inocente"
+        classificacao = "Inocente "
 
     print(f"Você respondeu {participacao2} perguntas positivamente e é classificada como {classificacao}")
 

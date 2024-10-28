@@ -16,5 +16,5 @@ def notas():
         print('Valor invalido')
     
     print(f'A média do aluno é: {media:.2f}')
-    print(f'O conceito do aluno é: {conceito}')
+    print(f'O conceito do aluno é: {conceito} ')
 notas()

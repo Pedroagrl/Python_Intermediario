@@ -7,5 +7,5 @@ def turno():
     elif turnos == 'N':
         print('Boa noite')
     else:
-        print('Valor Invalido!')
+        print('Valor Invalido! ')
 turno()

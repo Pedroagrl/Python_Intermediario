@@ -10,4 +10,4 @@ try:
     resultado = verificar_numero(numero)
     print(resultado)
 except ValueError:
-    print("A entrada não é um numero valido! ")
+    print("A entrada não é um numero valido!  ")

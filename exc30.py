@@ -13,5 +13,5 @@ def triangulos():
             tipo = 'Escaleno'
         print(f'Os lados fornecidos podem formar um triangulo {tipo}')
     else:
-        print(f'Os lados fornecidos não podem formar um triangulo.')
+        print(f'Os lados fornecidos não podem formar um triangulo. ')
 triangulos()

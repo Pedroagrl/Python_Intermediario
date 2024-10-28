@@ -14,5 +14,5 @@ def semana():
             print(f'O dia correspondente é: {dias[numero]}')
             break
         else:
-            print('Valor invalido!')
+            print('Valor invalido! ')
 semana()

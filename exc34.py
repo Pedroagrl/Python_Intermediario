@@ -19,5 +19,5 @@ def contador(numero):
         resultado += f"{unidades} unidade(s)"
     return resultado
 
-numero_input = int(input("Digite um numero inteiro maior que 1000: "))
+numero_input = int(input("Digite um numero inteiro maior que 1000:  "))
 print(contador(numero_input))

@@ -1,7 +1,7 @@
 def produtos():
     p1 = int(input('Preço do primeiro produto: R$'))
     p2 = int(input('Preço do segundo produto: R$'))
-    p3 = int(input('Preço do terceiro produto: R$'))
+    p3 = int(input('Preço do terceiro produto: R$ '))
     menor = p1
     if p2 < menor:
         menor = p2

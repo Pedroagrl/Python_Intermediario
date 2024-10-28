@@ -1,6 +1,6 @@
 def maior():
     n1 = int(input('Digite um numero: '))
-    n2 = int(input('Digite outro numero: '))
+    n2 = int(input('Digite outro numero:  '))
     n3 = int(input('O ultimo numero: '))
     maior = n1
     menor = n1

@@ -1,5 +1,5 @@
 def sinal():
-    numero = int(input('Digite um numero: '))
+    numero = int(input('Digite um numero:'))
     if numero < 0:
         print(f'O numero {numero} digitado é NEGATIVO! ')
     else:

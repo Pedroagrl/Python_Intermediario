@@ -5,5 +5,5 @@ def genero():
     elif sexo == 'F':
         print(f'O sexo escolhido foi Feminino! ')
     else:
-        print('Sexo invalido!')
+        print('Sexo invalido! ')
 genero()

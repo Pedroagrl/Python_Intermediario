@@ -1,4 +1,4 @@
-n1 = int(input('Um numero inteiro: '))
+n1 = int(input('Um numero inteiro:  '))
 n2 = int(input('Outro numero inteiro: '))
 n3 = float(input('Um numero real: '))
 A = (2 * (n1)) / n2

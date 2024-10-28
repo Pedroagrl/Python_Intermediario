@@ -1,7 +1,7 @@
 import math 
 
 def loja_de_tintas():
-    area = float(input('Tamanho da área a ser pintada(m²): '))
+    area = float(input('Tamanho da área a ser pintada(m²):  '))
     litros_necessarios = area / 6
     latas_necessarias = litros_necessarios / 18
     galoes_necessarios = litros_necessarios / 3.6

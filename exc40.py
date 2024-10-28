@@ -13,7 +13,7 @@ def posto():
         else:
             desconto = (litros * 1.9) * 95/100
     else:
-        print('Use apenas [G] ou [A].')
+        print('Use apenas [G] ou [A]. ')
         return
     
     print(f"O preço a pagar é R${desconto:.2f} pelos {litros} litros.")
